@@ -1,0 +1,5 @@
+{
+  "url": "https://rahulshettyacademy.com/AutomationPractice",
+  "browser": "firefox",
+  "driver_timeout": "5"
+}
